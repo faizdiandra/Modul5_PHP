@@ -20,12 +20,12 @@ Latihan 3
 
 
 
-![alt text](https://github.com/faizdiandra/Modul5_PHP/blob/master/Tugas1.JPG)
-
-
-
 Login
 ![alt text](https://github.com/faizdiandra/Modul5_PHP/blob/master/Login.JPG)
+
+
+
+![alt text](https://github.com/faizdiandra/Modul5_PHP/blob/master/Tugas1.JPG)
 
 
 
