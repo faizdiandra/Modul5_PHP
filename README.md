@@ -32,3 +32,16 @@ Login
 
 Tugas
 ![atlt text](https://github.com/faizdiandra/Modul5_PHP/blob/master/Tugas.JPG)
+
+
+
+1. Agar bisa diakses orang lain
+2. Fungsi dengan Parameter = variable input yang digunakan pada fungsi tersebut
+   Fungsi dengan Return Value = unutk mengembalikan suatu nilai
+   Fungsi Tanpa Parameter dan Return Value = fungsi yang tidak punya parameter dan return digunakan untuk menampilkan output
+   Fungsi dengan parameter default = Untuk mengisi isi parameter
+3. sudah, karena dapat dijalan kan dengan benar
+    Parameter = $jari
+    Return Value = 3.14
+    Tanpa Parameter dan Value = VBola(), LBola()
+    Parameter default = VBola($r), LBola($r)
